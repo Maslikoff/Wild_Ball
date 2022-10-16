@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8eb4ae75-4697-4762-90f5-8b006c6d00e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Skripts/CameraManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Skripts/AnimatorBall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Skripts/BoolController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Skripts/PlayerInterection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Skripts/OpenDoor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Skripts/BadParticle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.probuilder@5.0.6/Editor/EditorCore/EditShapeTool.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Skripts/Weightlessness.cs" />
+        <option value="$PROJECT_DIR$/Assets/Skripts/BallImpuls.cs" />
+        <option value="$PROJECT_DIR$/Assets/Skripts/BallControler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Skripts/LevelManeger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Skripts/AnimatorBall.cs" />
+        <option value="$PROJECT_DIR$/Assets/Skripts/CameraManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Skripts/PlayerInterection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Skripts/MovePluer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Skripts/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Skripts/BadParticle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Skripts/ParticleSkript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Skripts/OpenDoor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Skripts/BoolController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FOCvJyHUd2VGchhULkwhaEsbuz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8eb4ae75-4697-4762-90f5-8b006c6d00e8" name="Default Changelist" comment="" />
+      <created>1664353975377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664353975377</updated>
+      <workItem from="1664353980693" duration="15629000" />
+      <workItem from="1664660601243" duration="704000" />
+      <workItem from="1664876977935" duration="2959000" />
+      <workItem from="1664905954908" duration="2154000" />
+      <workItem from="1664917851671" duration="1633000" />
+      <workItem from="1665088268699" duration="3345000" />
+      <workItem from="1665135721271" duration="3777000" />
+      <workItem from="1665147025880" duration="7361000" />
+      <workItem from="1665394585343" duration="3701000" />
+      <workItem from="1665410909996" duration="632000" />
+      <workItem from="1665575013806" duration="1537000" />
+      <workItem from="1665581619280" duration="2745000" />
+      <workItem from="1665606392858" duration="3691000" />
+      <workItem from="1665673459789" duration="596000" />
+      <workItem from="1665868400115" duration="600000" />
+      <workItem from="1665906807462" duration="2773000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="616" y="238" key="run.anything.popup" timestamp="1665137114082">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="616" y="238" key="run.anything.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1665137114082" />
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1665611279329">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1032/1920.0.1440.852@0.0.1920.1032" timestamp="1665611279329" />
+    <state x="623" y="223" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1664355958829" />
+  </component>
+</project>
