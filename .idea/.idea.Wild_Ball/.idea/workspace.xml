@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="944f1dc2-d7c5-4021-aa02-50bd4f23625c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Bool.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Bool.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/DeadZone.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/DeadZone.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Good.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Good.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/alien-slime1-unity/alien-slime1-height.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/alien-slime1-unity/alien-slime1-height.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Wild_Ball/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Wild_Ball/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Wild_Ball/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Wild_Ball/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Wild_Ball/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Wild_Ball/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Lavel 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Lavel 1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Lavel 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Lavel 2.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Lavel 3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Lavel 3.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Lavel 4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Lavel 4.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Lavel 5.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Lavel 5.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Skripts/CameraManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Skripts/CameraManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,11 +20,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Skripts/CMCamera.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Skripts/CameraManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Skripts/MovePluer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Skripts/CameraManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Skripts/CMCamera.cs" />
       </list>
     </option>
   </component>
@@ -72,6 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666089135165</updated>
       <workItem from="1666089144412" duration="3341000" />
+      <workItem from="1666093938204" duration="3371000" />
     </task>
     <servers />
   </component>
