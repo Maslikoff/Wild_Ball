@@ -26,8 +26,11 @@ public class BoolController : MonoBehaviour
     [Header("Партиклы удара")] 
     [SerializeField] private GameObject ShotParticle;
 
+    [Header("Место старта | Промежуточная точка")]
+    public Transform startPointPosition, savePoint;
+
     [Header("Подсчет скольких убили")]
-    private int Kill;
+    private static int Kill;
 
     /// <summary>
     /// Касание плохих парней
@@ -100,12 +103,12 @@ public class BoolController : MonoBehaviour
     /// <param name="ball"></param>
     private void PromptText(Collider ball)
     {
-        if (Kill>=16)
+        if (ball.CompareTag("Prompt"))
         {
-            if (ball.CompareTag("Prompt"))
-            {
+            if (Kill>=16)
                 text.text = "Нажми на кнопочку:)";
-            }
+            else 
+                transform.position = savePoint.position;
         }
         else
         {
@@ -152,7 +155,19 @@ public class BoolController : MonoBehaviour
     {
         if (ball.CompareTag("LastLevel"))
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+            if (Kill >= 16)
+            {
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+                Kill = 0;
+            }
+            else if (Kill >= 9 && Kill < 16)
+            {
+                transform.position = savePoint.position;
+            }
+            else
+            {
+                transform.position = startPointPosition.position;
+            }
         }
     }
 
@@ -174,7 +189,8 @@ public class BoolController : MonoBehaviour
             }
             else
             {
-                text.text = "Убери кубики!";
+                transform.position = startPointPosition.position;
+                text.text = "Добей всех!";
             }
         }
     }

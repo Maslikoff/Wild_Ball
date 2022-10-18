@@ -85,7 +85,6 @@
           <e p="BadParticle.cs" t="Include" />
           <e p="BoolController.cs" t="Include" />
           <e p="CameraManager.cs" t="Include" />
-          <e p="CMCamera.cs" t="Include" />
           <e p="LevelManager.cs" t="Include" />
           <e p="MovePluer.cs" t="Include" />
           <e p="OpenDoor.cs" t="Include" />
