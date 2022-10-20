@@ -9,4 +9,9 @@ public class LevelManager : MonoBehaviour
     {
         SceneManager.LoadSceneAsync(Index);
     }
+
+    public void QuitScane()
+    {
+        Application.Quit();
+    }
 }
