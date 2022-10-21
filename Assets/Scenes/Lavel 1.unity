@@ -432,7 +432,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_Constraints
-      value: 0
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_IsKinematic
@@ -574,7 +574,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_Constraints
-      value: 0
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_IsKinematic
@@ -5537,7 +5537,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_Constraints
-      value: 0
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_IsKinematic
@@ -6201,7 +6201,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_Constraints
-      value: 0
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_IsKinematic
@@ -7400,7 +7400,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_Constraints
-      value: 0
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_IsKinematic
@@ -10233,7 +10233,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_Constraints
-      value: 0
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_IsKinematic
@@ -11799,7 +11799,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_Constraints
-      value: 0
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_IsKinematic
@@ -14411,7 +14411,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_Constraints
-      value: 0
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_IsKinematic
@@ -16091,7 +16091,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_Constraints
-      value: 0
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_IsKinematic
@@ -16975,7 +16975,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_Constraints
-      value: 0
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_IsKinematic
@@ -22512,7 +22512,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_Constraints
-      value: 0
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_IsKinematic
@@ -31340,7 +31340,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_Constraints
-      value: 0
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_IsKinematic
@@ -32090,7 +32090,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_Constraints
-      value: 0
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_IsKinematic
@@ -34616,7 +34616,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_Constraints
-      value: 0
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_IsKinematic
@@ -34947,7 +34947,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_Constraints
-      value: 0
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_IsKinematic
@@ -38387,7 +38387,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_Constraints
-      value: 0
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7495829614145870580, guid: 62edb4ad7e03a1948aa0b804f2c2f05b, type: 3}
       propertyPath: m_IsKinematic

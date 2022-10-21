@@ -29,8 +29,8 @@ public class BoolController : MonoBehaviour
     [Header("Место старта | Промежуточная точка")]
     public Transform startPointPosition, savePoint;
 
-    [Header("Подсчет скольких убили")]
-    private static int Kill;
+    [Header("Подсчет скольких убили")] 
+    private static int Kill = 0;
 
     /// <summary>
     /// Касание плохих парней
@@ -49,11 +49,15 @@ public class BoolController : MonoBehaviour
     {
         if (badGuy.gameObject.CompareTag("BadGuy"))
         {
-            BadText();
-            ShotBadGuy(badGuy);
-            Instantiate(ShotParticle, transform.position, Quaternion.identity);
-            Kill++;
-            killText.text = Kill.ToString();
+            badGuy.collider.enabled = false;
+            if (badGuy.collider.enabled == false)
+            {
+                BadText();
+                ShotBadGuy(badGuy);
+                Instantiate(ShotParticle, transform.position, Quaternion.identity);
+                Kill++;
+                killText.text = Kill.ToString();
+            }
         }
     }
 
@@ -127,6 +131,7 @@ public class BoolController : MonoBehaviour
             gameObject.SetActive(false);
             LoysePanel.SetActive(true);
             Instantiate(ShotParticle, transform.position, Quaternion.identity);
+            Kill = 0;
             
             if (LoysePanel == false)
             {

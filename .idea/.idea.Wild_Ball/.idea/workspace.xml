@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="944f1dc2-d7c5-4021-aa02-50bd4f23625c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Wild_Ball/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Wild_Ball/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Wild_Ball/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Wild_Ball/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Lavel 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Lavel 1.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Lavel 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Lavel 2.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Lavel 3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Lavel 3.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Lavel 4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Lavel 4.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Lavel 5.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Lavel 5.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Skripts/LevelManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Skripts/LevelManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skripts/BoolController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Skripts/BoolController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +28,8 @@
         <option value="$PROJECT_DIR$/Assets/Skripts/CameraManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Skripts/CMCamera.cs" />
         <option value="$PROJECT_DIR$/Assets/Skripts/OpenDoor.cs" />
-        <option value="$PROJECT_DIR$/Assets/Skripts/BoolController.cs" />
         <option value="$PROJECT_DIR$/Assets/Skripts/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Skripts/BoolController.cs" />
       </list>
     </option>
   </component>
@@ -77,6 +77,7 @@
       <workItem from="1666113216196" duration="2115000" />
       <workItem from="1666121540937" duration="387000" />
       <workItem from="1666262769668" duration="1248000" />
+      <workItem from="1666383761267" duration="1662000" />
     </task>
     <servers />
   </component>
